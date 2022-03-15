@@ -1,8 +1,21 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%11a600&size=60&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+silent+dev+%3C3;I+love+silence!!!;Welcome+to+silence+world!" alt="Title"></img>
+</div>
+
 <p align="center">
-	<img align="center" src="https://github.com/BigBen3918/BigBen/blob/main/logo.jpg?raw=true" style="width: 100%" />
+	<img align="center" src="https://github.com/BigBen3918/BigBen/blob/main/header.png?raw=true" style="width: 100%" />
 </p>
 
-<h2 font-weight="bold">My Skill Menu</h2>
+## <img src="https://github.com/BigBen3918/BigBen/blog/main/wave.gif" width="50px"></img> About Me
+
+- :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen/blog/main/sleep.gif" width="400" align="right"/>
+- :books: My major is ****
+- :earth_asia: I'm living now in **ASIA**
+- :sweat_smile: I love computer, so I want to know all technologies.
+- :monocle_face: I'm interested in sleeping, coding and watching film
+- :sunglasses: My quote is ***"Always aim for the top! Don't waste time. Many things are waiting. In there, there is also a quiet life."*** 
+- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+
 <table>
   <tr>
   	<td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
@@ -15,20 +28,30 @@
   </tr>
 </table>
 
-<br />
-<h1 font-weight="bold" align="center">What is the goal?</h2>
+## <img src='https://github.com/BigBen3918/BigBen/blog/main/shake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+  <a href="benjamin199551@gmail.com" >
+    <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />
+  </a> &nbsp;&nbsp;
 
-<div>
- 
-### Always aim for the top! Don't waste time!
-### Many things are waiting.
-### In there, there is also a quiet life.
-### Wait me...
-  
-<br />
-#Telegram : https://t.me/AndreyLozin
-<br />
-#Skype : live:.cid.1596068230a91620
-<br />
+  <a href="https://t.me/AndreyLozin" target="_blank">
+    <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/BigBen/blog/main/Telegram.png" />
+  </a> &nbsp;&nbsp;
 
+  <a href="https://web.skype.com/live:.cid.1596068230a91620" target="_blank">
+    <img align="center" alt="Silence | Skype" width="26px" src="https://github.com/BigBen3918/BigBen/blog/main/Skype.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://github.com/BigBen3918" target="_blank">
+    <img align="center" alt="Silence | GitHub" width="26px" src="https://github.com/BigBen3918/BigBen/blog/main/Github.png" />
+  </a> &nbsp;&nbsp;
+<p> 
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2022 Silence Developer of Galaxy
 </div>
+
+------
+
+Last Edited on: 3/16/2022
