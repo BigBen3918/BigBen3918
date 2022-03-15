@@ -6,9 +6,9 @@
 	<img align="center" src="https://github.com/BigBen3918/BigBen/blob/main/header.png?raw=true" style="width: 100%" />
 </p>
 
-## <img src="https://github.com/BigBen3918/BigBen/blog/main/wave.gif" width="50px"></img> About Me
+## <img src="https://github.com/BigBen3918/BigBen/blog/main/wave.gif?raw=true" alt="" width="50px"></img> About Me
 
-- :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen/blog/main/sleeping.gif" width="350" align="right" />
+- :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen/blog/main/sleeping.gif?raw=true" width="350" align="right" />
 - :books: My major is ****
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love computer, so I want to know all technologies.
