@@ -8,7 +8,7 @@
 
 ## <img src="https://github.com/BigBen3918/BigBen/blog/main/wave.gif" width="50px"></img> About Me
 
-- :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen/blog/main/sleeping.gif" width="400" align="right"/>
+- :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen/blog/main/sleeping.gif" width="400" align="right" />
 - :books: My major is ****
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love computer, so I want to know all technologies.
