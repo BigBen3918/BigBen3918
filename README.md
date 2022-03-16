@@ -9,7 +9,7 @@
 ## <img src="https://github.com/BigBen3918/BigBen3918/blob/main/wave.gif" alt="" width="50px" /> About Me
 
 - :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen3918/blob/main/sleeping.gif" width="400" align="right" />
-- :books: My major is ****
+- :books: My major is **All-Around Develop**
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love computer, so I want to know all technologies.
 - :monocle_face: I'm interested in sleeping, coding and watching film
