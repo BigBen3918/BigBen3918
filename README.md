@@ -35,7 +35,7 @@
   </a> &nbsp;&nbsp;
 
   <a href="https://t.me/AndreyLozin" target="_blank">
-    <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/BigBen3918/blog/main/Telegram.png" />
+    <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Telegram.png" />
   </a> &nbsp;&nbsp;
 
   <a href="https://web.skype.com/live:.cid.1596068230a91620" target="_blank">
