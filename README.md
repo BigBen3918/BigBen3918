@@ -35,15 +35,15 @@
   </a> &nbsp;&nbsp;
 
   <a href="https://t.me/AndreyLozin" target="_blank">
-    <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/BigBen/blog/main/Telegram.png" />
+    <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/blog/main/Telegram.png" />
   </a> &nbsp;&nbsp;
 
   <a href="https://web.skype.com/live:.cid.1596068230a91620" target="_blank">
-    <img align="center" alt="Silence | Skype" width="26px" src="https://github.com/BigBen3918/BigBen/blog/main/Skype.png" />
+    <img align="center" alt="Silence | Skype" width="26px" src="https://github.com/BigBen3918/blog/main/Skype.png" />
   </a> &nbsp;&nbsp;
 
   <a href="https://github.com/BigBen3918" target="_blank">
-    <img align="center" alt="Silence | GitHub" width="26px" src="https://github.com/BigBen3918/BigBen/blog/main/Github.png" />
+    <img align="center" alt="Silence | GitHub" width="26px" src="https://github.com/BigBen3918/blog/main/Github.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
