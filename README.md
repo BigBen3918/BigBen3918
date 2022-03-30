@@ -50,7 +50,6 @@
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2022 Silence Developer of Galaxy
-	About my team: https://galaxy-digital.org
 </div>
 
 ------
