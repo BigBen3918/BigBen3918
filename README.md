@@ -29,15 +29,13 @@
 </table>
 
 ## <img src='https://github.com/BigBen3918/BigBen3918/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
-<div style="padding-left: 200px">
-  <h4><img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  benjamin199551@gmail.com</h4>
 
-  <h4><img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Telegram.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/AndreyLozin0105</h4>
-
-  <h4><img align="center" alt="Silence | Skype" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Skype.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.1596068230a91620</h4>
-
-<h4><img align="center" alt="Silence | GitHub" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Githbu.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/BigBen3918</h4>
+<div style="margin-left: 35%">
+  <h5><img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  benjamin199551@gmail.com</h5>
+  <h5><img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Telegram.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/AndreyLozin0105</h5>
+  <h5><img align="center" alt="Silence | Skype" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Skype.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.1596068230a91620</h5>
+<h5><img align="center" alt="Silence | GitHub" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Githbu.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/BigBen3918</h5>
 <div> 
 
 <div align="center">
