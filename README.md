@@ -30,8 +30,8 @@
 
 ## <img src='https://github.com/BigBen3918/BigBen3918/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
 <p align="center" style="text-decoration: none">
-  <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />
-  <h4>benjamin199551@gmail.com</h4> <br />
+  <h4> <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />
+  benjamin199551@gmail.com</h4> <br />
 
   <a href="https://t.me/AndreyLozin0105" target="_blank">
     <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Telegram.png" />
