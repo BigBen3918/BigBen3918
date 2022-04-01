@@ -34,7 +34,7 @@
     <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://t.me/AndreyLozin" target="_blank">
+  <a href="https://t.me/AndreyLozin0105" target="_blank">
     <img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Telegram.png" />
   </a> &nbsp;&nbsp;
 
