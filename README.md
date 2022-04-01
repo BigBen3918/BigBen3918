@@ -29,7 +29,7 @@
 </table>
 
 ## <img src='https://github.com/BigBen3918/BigBen3918/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
-<div style="padding: 0 50%">
+<div style="padding: 50px 50%">
   <h4><img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   benjamin199551@gmail.com</h4>
 
