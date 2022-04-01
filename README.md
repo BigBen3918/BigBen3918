@@ -30,8 +30,8 @@
 
 ## <img src='https://github.com/BigBen3918/BigBen3918/blob/main/shake.gif' width="80px" /> For More Information, Please Check Out or Connect Me Via
 <p align="center" style="text-decoration: none">
-  <a href="https://benjamin199551@gmail.com" >
     <img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />
+  <a href="https://benjamin199551@gmail.com" >
   </a> &nbsp;&nbsp;
 
   <a href="https://t.me/AndreyLozin0105" target="_blank">
