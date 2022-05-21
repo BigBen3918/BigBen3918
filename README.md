@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+silent+guy;Don't+bother+ME!!!;Welcome+to+silent+world!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+silent+guy;Don't+bother+ME!!!;Welcome+to+silent+world!" alt="Title" />
 </div>
 
 <p align="center">
-	<img align="right" src="https://github.com/BigBen3918/BigBen/blob/main/header.png?raw=true" style="width: 100%" />
+	<img align="center" src="https://github.com/BigBen3918/BigBen/blob/main/header.png?raw=true" style="width: 100%" />
 </p>
 
 ## <img src="https://github.com/BigBen3918/BigBen3918/blob/main/wave.gif" alt="" width="50px" /> About Me
 
-- :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen3918/blob/main/sleeping.gif" width="400" align="right" />
+- :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen3918/blob/main/sleeping.gif" width="400px" align="right" />
 - :books: My major is **All-Around Develop**
 - :earth_asia: I'm living now in **ASIA**
 - :sweat_smile: I love computer, so I want to know all technologies.
