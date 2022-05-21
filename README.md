@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-	<img align="center" src="https://github.com/BigBen3918/BigBen/blob/main/header.png?raw=true" style="width: 100%" />
+	<img align="right" src="https://github.com/BigBen3918/BigBen/blob/main/header.png?raw=true" style="width: 100%" />
 </p>
 
 ## <img src="https://github.com/BigBen3918/BigBen3918/blob/main/wave.gif" alt="" width="50px" /> About Me
