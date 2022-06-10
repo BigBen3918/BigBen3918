@@ -6,7 +6,7 @@
 	<img align="center" src="https://github.com/BigBen3918/BigBen/blob/main/header.png?raw=true" style="width: 100%" />
 </p>
 
-## <img src="https://github.com/BigBen3918/BigBen3918/blob/main/wave.gif" alt="" width="50px" /> About Me
+##<img src="https://github.com/BigBen3918/BigBen3918/blob/main/wave.gif" alt="" style="width:50px" /> About Me
 
 - :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen3918/blob/main/sleeping.gif" width="400px" align="right" />
 - :books: My major is **All-Around Develop**
