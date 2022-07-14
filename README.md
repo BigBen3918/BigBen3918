@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+silent+guy;Don't+bother+ME!!!;Welcome+to+silent+world!" alt="Title" />
-</div>
-
-<p align="center">
-	<img align="center" src="https://github.com/BigBen3918/BigBen/blob/main/header.png?raw=true" style="width: 100%" />
-</p>
-
 ## About Me
 
 - :credit_card: I am a **silent developer** <img src="https://github.com/BigBen3918/BigBen3918/blob/main/sleeping.gif" width="400px" align="right" />
